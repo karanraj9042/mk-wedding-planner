@@ -1,0 +1,42 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "weddingplanner",
+    "packageName": "com.mk.wedding.planner",
+    "packageFolder": "com/mk/wedding/planner",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Memory",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "6.1.2",
+    "jwtSecretKey": "NTNmNDU5Y2VjYWU1MTg4ODhmYmQyZGYyNjFhOGYxZDg3ZTk3ODI4MWY0NjQzNTc1YTE5ZGQwNDUxYmNmZDRkY2E4NGY2OGRhZDk1NjFkZmFlYzY3ZTZhOTFmOTM1M2FlMWJlMzNmZThlY2FjODFkYzM5NDdkMTk3MWI1ZmMwODY=",
+    "clientTheme": "none",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "karanraj9042",
+  "repository-name": "mk-wedding-planner"
+}
